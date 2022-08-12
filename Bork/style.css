@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Akzidenz";
+  src: url("AkzidenzGroteskPro-Light.woff");
+  src: url("AkzidenzGroteskPro-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
