@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "GillSansC";
+  src: url("GillSansC.woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GillSansC";
+  src: url("GillSansC-Bold.woff");
+  font-weight: bold;
+  font-style: normal;
+}
