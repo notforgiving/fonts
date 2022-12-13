@@ -4,3 +4,11 @@
   font-weight: bold;
   font-style: normal;
 }
+
+@font-face {
+    font-family: "SamsungOne";
+    font-style: normal;
+    font-weight: 200;
+    src: url(/local/templates/galaxystore_vue/frontend/dist/fonts/SamsungOne-200.woff2?id=88ca583035a3e41e50e1f0f11a237542) format("woff2"),url(/local/templates/galaxystore_vue/frontend/dist/fonts/SamsungOne-200.woff?id=8da5399bacf53657b70fd6a46e787d68) format("woff");
+    font-display: swap
+}
