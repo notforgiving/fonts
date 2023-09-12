@@ -20,6 +20,21 @@
   font-style: normal;
 }
 
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("Gilroy-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("Gilroy-Thin.woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
 @font-face {
   font-family: 'History Pro 02';
   src: url('HistoryPro-Two.eot');
