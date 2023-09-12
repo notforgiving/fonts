@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "Gilroy";
+  src: url("Gilroy-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("Gilroy-Extrabold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("Gilroy-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'History Pro 02';
+  src: url('HistoryPro-Two.eot');
+  src: local('History Pro 02'), local('HistoryPro-Two'),
+      url('HistoryPro-Two.eot?#iefix') format('embedded-opentype'),
+      url('HistoryPro-Two.woff2') format('woff2'),
+      url('HistoryPro-Two.woff') format('woff'),
+      url('HistoryPro-Two.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
